@@ -1659,3 +1659,11 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+		video {
+			width: 100%;
+			max-width: 560px;
+			height: auto;
+			display: block;
+			margin: 0 auto;
+			
