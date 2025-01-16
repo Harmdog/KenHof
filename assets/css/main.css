@@ -1662,8 +1662,8 @@ input, select, textarea {
 
 		video {
 			width: 100%;
-			max-width: 400px;
-			height: auto;
+			max-width: 800px;
+			max-height: 450px;
 			display: block;
 			margin: 0 auto;
 
